@@ -13,7 +13,7 @@
 //     "log"
 //
 //     "github.com/buaazp/fasthttprouter"
-//     "github.com/valyala/fasthttp"
+//     "github.com/erikdubbelboer/fasthttp"
 // )
 
 // func Index(ctx *fasthttp.RequestCtx) {
